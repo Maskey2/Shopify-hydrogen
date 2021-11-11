@@ -38,7 +38,7 @@ export default function Layout({children, hero}) {
         </a>
       </div>
       <div className="min-h-screen max-w-screen text-gray-700 font-sans">
-        <Header collections={collections} storeName={storeName} />
+        <Header collections={collections} storeName="Bela Luna" />
         {/* eslint-disable-next-line @shopify/jsx-prefer-fragment-wrappers */}
         <div>
           <div

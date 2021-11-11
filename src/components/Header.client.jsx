@@ -36,7 +36,7 @@ export default function Header({collections, storeName}) {
               }}
             />
           </div>
-          <Navigation collections={collections} storeName={storeName} />
+          <Navigation collections={collections} storeName="Bela Luna" />
         </div>
       </div>
     </header>
